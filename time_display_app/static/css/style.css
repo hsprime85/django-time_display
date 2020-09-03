@@ -1,0 +1,32 @@
+* {
+    width: 970px;
+    margin: 0 auto;
+    font-family: monospace;
+}
+
+body {
+    padding: 35px;
+    text-align: center;
+    
+}
+h3 {
+    display : block;
+    width: 650px;
+    color: #28829b;
+    background-color: #6bcdff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 35px;
+}
+
+h1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 20px;
+    display: block;
+    width : 850px;
+    color: #d8e1ff;
+    background-color: #2d69ff;
+    font-size: 55px
+    
+}
